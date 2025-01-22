@@ -93,3 +93,6 @@ This project is licensed under the MIT License. See the [LICENSE](http://_vscode
 
 - OpenAI for providing the ChatGPT API.
 - Google for the Custom Search JSON API.
+
+### Tags
+`python` · `machine-learning` · `data-science` · `api-integration` · `chatgpt`· `web-search`· `gen-ai`
